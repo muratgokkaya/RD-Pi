@@ -45,10 +45,3 @@ If you want to remote login via SSH there is a user for it ;
 https://github.com/DrDrrae/rdpwrap/releases/tag/v1.6.2.1
 
 
-
-
-
-
-
-## Helpful Links
-https://www.linkedin.com/in/muratgokkaya/
