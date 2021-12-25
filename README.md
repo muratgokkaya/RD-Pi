@@ -23,7 +23,8 @@ Thin Client for Microsoft Remote Desktop using Raspberry Pi
 * Keyboard
 * Mouse
 
-
+## Download RD-Pi v1.0
+https://drive.google.com/file/d/1vP9zPTANlXPPtjUTvp6vvLuMY10CH_Gk/view?usp=sharing
 
 ## RDP Wrapper Library v1.6.2.1 for Multi Session Windows
 
