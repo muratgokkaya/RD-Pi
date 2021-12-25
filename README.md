@@ -3,6 +3,16 @@ Thin Client for Microsoft Remote Desktop using Raspberry Pi
 ![alt text](https://github.com/muratgokkaya/RD-Pi/blob/main/splash.png?raw=true)
 
 
+## Features
+
+![Screenshots](https://github.com/muratgokkaya/RD-Pi/blob/main/screenshot.png)
+
+```
+▲ Plug and play, affordable,        ▲ Boots directly into a RDP       ▲ WiFi & other system config
+     no config required                        session                        is just simple
+```
+
+
 ## Prerequisites:
 * Raspberry PI (Raspberry Pi 4 2GB veya Raspberry Pi 3b+)
 * Raspberry PI Adaptor
