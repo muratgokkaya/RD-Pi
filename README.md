@@ -4,15 +4,15 @@ Thin Client for Microsoft Remote Desktop using Raspberry Pi
 
 
 ## Prerequisites:
-· Raspberry PI (Raspberry Pi 4 2GB veya Raspberry Pi 3b+)
-· Raspberry PI Adaptor
-· MicroSD Card (4 GB Minimum)
-· Raspberry PI Muhafaza Kutusu (İsteğe Bağlı)
-· HDMI Kablosu
-· Network Kablosu
-· Monitör
-· Klavye
-· Mouse
+* Raspberry PI (Raspberry Pi 4 2GB veya Raspberry Pi 3b+)
+* Raspberry PI Adaptor
+* MicroSD Card (4 GB Minimum)
+* Raspberry PI Muhafaza Kutusu (İsteğe Bağlı)
+* HDMI Kablosu
+* Network Kablosu
+* Monitör
+* Klavye
+* Mouse
 
 
 
