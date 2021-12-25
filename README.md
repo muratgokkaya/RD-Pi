@@ -5,7 +5,7 @@ Thin Client for Microsoft Remote Desktop using Raspberry Pi
 
 ## Features
 
-![Screenshots](https://github.com/muratgokkaya/RD-Pi/blob/main/screenshot.png)
+![Screenshots](https://github.com/muratgokkaya/RD-Pi/blob/main/screenshot.jpg)
 
 ```
 ▲ Plug and play, affordable,        ▲ Boots directly into a RDP       ▲ WiFi & other system config        ▲ FREE to use as long as
