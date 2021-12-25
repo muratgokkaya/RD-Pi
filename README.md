@@ -8,8 +8,8 @@ Thin Client for Microsoft Remote Desktop using Raspberry Pi
 ![Screenshots](https://github.com/muratgokkaya/RD-Pi/blob/main/screenshot.png)
 
 ```
-▲ Plug and play, affordable,        ▲ Boots directly into a RDP       ▲ WiFi & other system config
-     no config required                        session                        is just simple
+▲ Plug and play, affordable,        ▲ Boots directly into a RDP       ▲ WiFi & other system config        ▲ FREE to use as long as you
+     no config required                        session                        is just simple                            want
 ```
 
 
@@ -19,7 +19,7 @@ Thin Client for Microsoft Remote Desktop using Raspberry Pi
 * MicroSD Card (4 GB Minimum)
 * HDMI Cable
 * Network Cable
-* Monitör
+* Monitor
 * Keyboard
 * Mouse
 
