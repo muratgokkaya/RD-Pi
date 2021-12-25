@@ -33,8 +33,9 @@ There are 2 files in boot partition should be configured ;
 * dhcpcd.conf if you wan to use your Raspberry Pi with static IP
 
 If you want to remote login via SSH there is a user for it ;
-username : admin
-password : 123456
+
+`username : admin`
+`password : 123456`
 
 
 ## RDP Wrapper Library v1.6.2.1 for Multi Session Windows
