@@ -26,6 +26,8 @@ Thin Client for Microsoft Remote Desktop using Raspberry Pi
 ## Download RD-Pi v1.0
 https://drive.google.com/file/d/1vP9zPTANlXPPtjUTvp6vvLuMY10CH_Gk/view?usp=sharing
 
+## Installation
+Simply burn it to SD Card or USB Memory using Raspberry Pi Imager
 
 ## Details
 There are 2 files in boot partition should be configured ;
